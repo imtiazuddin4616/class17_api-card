@@ -28,9 +28,3 @@ let showComments=(id) =>{
 console.log(clickData);
   })
 }
-
-
-
-
-
-
